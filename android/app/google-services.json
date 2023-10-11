@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "119398345036",
+    "project_id": "aqwal-cd9c4",
+    "storage_bucket": "aqwal-cd9c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119398345036:android:f0de285cf188ddd32e47e9",
+        "android_client_info": {
+          "package_name": "com.aqwal.aqwal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119398345036-ogelup9onqcva29j84ck1v8rc42mhouf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqNYY2r09Aw0prU_oeYRbys1g3L8-wuek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119398345036-ogelup9onqcva29j84ck1v8rc42mhouf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119398345036-n9dc5qqrbpppjhigni2urh6tk4l22851.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.aqwal"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
